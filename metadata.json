@@ -1,0 +1,25 @@
+{
+  "name": "puppet-user_account",
+  "version": "0.0.1",
+  "author": "Michiru Kaneda",
+  "summary": "Puppet module to manage user account",
+  "license": "MIT",
+  "source": "https://github.com/mickaneda/puppet-user_account",
+  "description": "Puppet module to manage user account",
+  "issues_url": "https://github.com/mickaneda/puppet-user_account/issues",
+  "tags": [
+  ],
+  "project_page": "https://github.com/mickaneda/puppet-user_account",
+  "requirements": [
+  ],
+  "operatingsystem_support": [
+  ],
+  "dependencies": [
+    {
+      "name": "puppetlabs/accounts"
+    },
+    {
+      "name": "puppetlabs/ssh_keygen"
+    }
+  ]
+}
