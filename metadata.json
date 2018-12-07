@@ -19,7 +19,7 @@
       "name": "puppetlabs/accounts"
     },
     {
-      "name": "puppetlabs/ssh_keygen"
+      "name": "puppet/ssh_keygen"
     }
   ]
 }
