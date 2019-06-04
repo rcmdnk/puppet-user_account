@@ -16,7 +16,8 @@
   ],
   "dependencies": [
     {
-      "name": "puppetlabs/accounts"
+      "name": "puppetlabs/accounts",
+      "version_requirement": "<= 3.2.0"
     },
     {
       "name": "puppet/ssh_keygen"
