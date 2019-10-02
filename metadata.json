@@ -1,6 +1,6 @@
 {
   "name": "puppet-user_account",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": "Michiru Kaneda",
   "summary": "Puppet module to manage user account",
   "license": "MIT",

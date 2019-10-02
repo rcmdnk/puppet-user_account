@@ -4,7 +4,7 @@ class user_account(
   $ssh_keygen = {},
 ){
   $group.each |String $key, Hash $val| {
-    accounts::group {$key:
+    group {$key:
       * => $val,
     }
   }
